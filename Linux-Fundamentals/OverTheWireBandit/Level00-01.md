@@ -12,10 +12,17 @@ Find the password stored in a file called `readme` in the home directory.
 ls
 cat readme
 
+```
+---
+
 ## 🔐 Password
+
 ✅ Password retrieved successfully — not shown for OverTheWire compliance.
 
+---
+
 ## 🧐 Notes
+
 - **What did you learn?**  
   How to list files and read a file's contents in the terminal using `ls` and `cat`.
 
