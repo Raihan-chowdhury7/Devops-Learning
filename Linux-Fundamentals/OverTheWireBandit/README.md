@@ -1,4 +1,4 @@
-#OverTheWire: Bandit Walkthrough
+# OverTheWire: Bandit Walkthrough
 
 This folder includes my personal walkthrough of the [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) wargame. It's a practical, hands-on challenge designed to strengthen core Linux skills like navigating the file system, managing permissions, and using command-line tools.
 
