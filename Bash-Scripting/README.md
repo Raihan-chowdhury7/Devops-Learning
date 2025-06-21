@@ -1,6 +1,6 @@
 # 🧠 Bash Battle Arena
 
-**Bash Battle Arena** is a gamified learning journey designed to build and improve your Bash scripting skills through hands-on challenges. It begins with simple tasks and gradually introduces more complex concepts involving file manipulation, conditionals, functions, loops, and more advanced scripting techniques.
+**Bash Battle Arena** is a gamified learning journey designed by CoderCo to build and improve your Bash scripting skills through hands-on challenges. It begins with simple tasks and gradually introduces more complex concepts involving file manipulation, conditionals, functions, loops, and more advanced scripting techniques.
 
 Each level presents a mission (or series of missions) that you complete by writing a Bash script. By solving these challenges, you'll not only improve your shell scripting ability but also develop the mindset of a true "Bash Master" 💥.
 
